@@ -10,9 +10,9 @@ A Customer centric Software Developer with 2 years experience building robust an
 * 🤝  I'm open to collaborating on Open Source Projects
 - 🤔 I’m looking for help with React
 - 💬 Ask me about Java
-- 📫 How to reach me: +2349020278738
-- 😄 Pronouns: ...
+- 😄 Pronouns: She/Her
 * ✉️  You can contact me at [peaceonyinye05@gmail.com](mailto:peaceonyinye05@gmail.com)
+* - 📫 How to reach me: +2349020278738
 * ⚡  I love travelling and exploring the world.
 
 <a href="https://www.twitter.com/nellypamicable" target="_blank" rel="noreferrer"><img
