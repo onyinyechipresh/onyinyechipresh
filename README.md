@@ -5,7 +5,7 @@ A Customer centric Software Developer with 2 years experience building robust an
 
 * 🌍  I'm based in Lagos, Nigeria
 * 🧠  I'm learning Spring Boot
-- 🔭 I’m currently working on hotel management web application
+- 🔭 I’m currently working on convinence store application
 - 🌱 I’m currently learning Java
 * 🤝  I'm open to collaborating on Open Source Projects
 - 🤔 I’m looking for help with React
