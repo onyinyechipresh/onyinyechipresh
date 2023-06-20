@@ -1,18 +1,18 @@
 Hi There👋  I am Peace Onyinye, A Software Engineer
 -----------------
 
-A Customer centric Software Developer with 2 years experience building robust and scalable applications with Java in an agile environment.
+A Customer centric Software Developer with 3+ years experience building robust and scalable applications with Java in an agile environment.
 
 * 🌍  I'm based in Lagos, Nigeria
-* 🧠  I'm learning Spring Boot
+* 🧠  I'm learning Cloud Engineering
 - 🔭 I’m currently working on Fintech payment application
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning DevOps
 * 🤝  I'm open to collaborating on Open Source Projects
-- 🤔 I’m looking for help with React
-- 💬 Ask me about Java
+- 🤔 I’m looking for help with React and Angular
+- 💬 Ask me about Java/Spring Boot
 - 😄 Pronouns: She/Her
 * ✉️  You can contact me at [peaceonyinye05@gmail.com](mailto:peaceonyinye05@gmail.com)
-* - 📫 How to reach me: +2349020278738
+* - 📫 How to reach me: +2348133890205
 * ⚡  I love travelling and exploring the world.
 
 <a href="https://www.twitter.com/nellypamicable" target="_blank" rel="noreferrer"><img
